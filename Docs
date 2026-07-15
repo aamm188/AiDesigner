@@ -11,8 +11,7 @@
 │   │   ├── ADR-001-to-015-Architecture-Baseline.md
 │   │   ├── ADR-016-Universal-Design-Model.md
 │   │   ├── ADR-017-UDM-as-System-Contract.md
-│   │   └── ADR-018-PoC-End-to-End-Validation.md
-│
+│   │   └── ...
 │   ├── requirements/
 │   │
 │   └── interfaces/
